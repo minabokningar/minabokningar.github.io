@@ -1,0 +1,15 @@
+<article>
+    <h1>Legal Documents</h1>
+
+    <div class="content">
+        <p>Here is the legal document that business agree to, when they sign up for a business account with Mina Bokningar.  <br>
+We recommend that anyone developing an integration with the Mina Bokningar API get familiar with these terms and conditions.  <br>
+You, the owner of a platform that integrates with the Mina Bokningar API, are responsible for providing the necessary functionality to your users, to allow them to fulfill their requirements that they have agreed to in the contract.  <br>
+The document is currently available in Swedish only.</p>
+
+<h4 id="merchant-agreement">Business agreement</h4>
+
+<p><a href="http://www.minabokningar.nu">Mina Bokningars Allmänna Villkor</a></p>
+
+    </div>
+</article>
